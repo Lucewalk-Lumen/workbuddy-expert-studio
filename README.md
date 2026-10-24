@@ -5,7 +5,7 @@
 > Turn an expert idea into a publishable package, step by step
 
 
-Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) collection.
+Part of the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) collection.
 
 
 ## What it does
@@ -17,7 +17,7 @@ Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) co
 
 ## How it works
 
-- This studio produced every product in the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) catalog
+- This studio produced every product in the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) catalog
 - Two dedicated skills: the studio toolkit and a web crawler for material gathering
 - Not-datum-not-advance: quality gates block the next step until the current one passes
 
@@ -65,7 +65,7 @@ MIT — see [LICENSE](LICENSE).
 
 - 版本:v1.0.2 · 类型:team
 - 版本真源:包内 `.codebuddy-plugin/plugin.json` 的 `version` 字段
-- 所属合集:[WorkBuddy Experts 门户](https://github.com/Lucewalk/lucewalk-experts)(全部产品目录与品牌说明)
+- 所属合集:[Lucewalk Experts 门户](https://github.com/Lucewalk/lucewalk-experts)(全部产品目录与品牌说明)
 
 ## 安装
 
