@@ -2,16 +2,24 @@
 
 **WorkBuddy 专家开发工坊** · v1.0.2 · `team`
 
-> Turn an idea for an expert into a ready-to-import package, guided by a lead and six specialists.
+> Turn an expert idea into a publishable package, step by step
 
 
-Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) collection — expert teams, agents and skills for the WorkBuddy AI assistant platform.
+Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) collection.
 
 
 ## What it does
 
-- **workbuddy-expert-studio-toolkit** — Reusable gates and validators for the WorkBuddy 专家开发工坊 (workbuddy-expert-studio) team — package manifest checks, length caliber, shard integ
-- **workbuddy-expert-studio-web-crawler** — Robust, dependency-free web fetch and search companion for the workbuddy-expert-studio team — graceful timeouts, retries, charset detection,
+- **Alignment first** — the lead restates what to build, for whom and to what standard before any work starts
+- **Six specialists** — architect (design), engineer (build), diagnostician (troubleshoot), auditor (quality gates), packager (release), release-chronicler (history)
+- **Step-gated delivery** — design → build → quality check → packaging, each step with explicit acceptance criteria
+- **Pre-delivery health check** — completeness, length, citation and path safety are verified automatically
+
+## How it works
+
+- This studio produced every product in the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) catalog
+- Two dedicated skills: the studio toolkit and a web crawler for material gathering
+- Not-datum-not-advance: quality gates block the next step until the current one passes
 
 ## Agent roster
 
@@ -25,16 +33,23 @@ Part of the [WorkBuddy Experts](https://github.com/Lucewalk/lucewalk-experts) co
 | `agent-release-chronicler` | WorkBuddy 专家开发工坊 · 验收沉淀官（史衡 / Shi） |
 | `workbuddy-expert-studio-team-lead` | WorkBuddy 专家开发工坊 · 主理人 |
 
+## Skills
+
+`workbuddy-expert-studio-toolkit` · `workbuddy-expert-studio-web-crawler`
+
 ## Install
 
 1. Download the package zip from [Releases](https://github.com/Lucewalk/workbuddy-expert-studio/releases) or clone this repo;
 2. Unzip keeping the internal manifest structure intact;
 3. Import/register in WorkBuddy (custom connector → trust & enable).
 
+
 ## Version
 
-Current release: **v1.0.2** — see [CHANGELOG.md](CHANGELOG.md) if present, or the package manifest.
+Current release: **v1.0.2**. See the package manifest for details.
+
 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
