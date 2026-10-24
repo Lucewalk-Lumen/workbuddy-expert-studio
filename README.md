@@ -5,7 +5,7 @@
 > Turn an expert idea into a publishable package, step by step
 
 
-Part of the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) collection.
+Part of the [Lucewalk Lumen](https://github.com/Lucewalk/lucewalk-lumen) collection.
 
 
 ## What it does
@@ -17,7 +17,7 @@ Part of the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) col
 
 ## How it works
 
-- This studio produced every product in the [Lucewalk Experts](https://github.com/Lucewalk/lucewalk-experts) catalog
+- This studio produced every product in the [Lucewalk Lumen](https://github.com/Lucewalk/lucewalk-lumen) catalog
 - Two dedicated skills: the studio toolkit and a web crawler for material gathering
 - Not-datum-not-advance: quality gates block the next step until the current one passes
 
